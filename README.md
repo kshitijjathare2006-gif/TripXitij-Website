@@ -1,0 +1,1 @@
+This is an practice website , that uses dummy photos and information i.e., not connected with any real info.  . This is an website featuring an online car booking platform from where people can book vehicles online for trips or destinations. 
